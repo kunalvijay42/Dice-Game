@@ -7,7 +7,7 @@
 .dice {
   text-align: center;
   display: inline-block;
-  padding-top: 3rem;
+  padding-top: 10rem;
   padding-bottom: 5.5rem;
 }
 
@@ -34,9 +34,9 @@ img {
 }
 
 footer {
-  margin-top: 5%;
+  margin-top: 7.5%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-  font-size: medium;
+  font-size: larger;
 }
