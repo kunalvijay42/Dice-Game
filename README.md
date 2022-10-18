@@ -1,7 +1,7 @@
 
 # Dice Game
 
-This is a simple game. The user clicks the refresh button on the browser and gets to know whether Player 1 won or Player 2 or it is a draw.
+This is a simple dice game. The user clicks the refresh button on the browser and gets to know whether Player 1 won or Player 2 or it is a draw.
 
 
 
